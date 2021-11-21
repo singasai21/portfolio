@@ -236,10 +236,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: rgb(211, 14, 218);
+  color: rgb(24, 231, 135);
+
 }
 #hero p {
-  color: rgb(211, 14, 218);
+  color: rgb(24, 231, 135);
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
